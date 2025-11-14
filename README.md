@@ -4,9 +4,9 @@ I’m Fabian, a web designer/web developer based in Germany.
 
 I mostly design and build websites for customers, but sometimes also for myself or just for fun. 😅
 
-If something comes to mind, I try to build it.
+If something comes to my mind, I try to build it.
 
-I like working from scratch without using frameworks or modules from others, so I actually understand what those things do.
+I like working from scratch without using frameworks or modules from others, so I actually understand what those things do and how they work.
 
 My main tech stack (as of now) is HTML, CSS, JavaScript, and PHP. My favorite tools for design are Adobe Illustrator, Photoshop, and Figma.
 
@@ -17,8 +17,6 @@ with the most recent being the website for my company, <a href="https://c-f-webd
 - I have three cats
 - I’m 20 years old
 - I am a state-certified technical assistant for technical documentation.
-
-
 
 <!--
 **Skate-790/Skate-790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
